@@ -1,0 +1,50 @@
+
+.div {
+    background-image: url(https://ocdn.eu/pulscms-transforms/1/1jDk9kuTURBXy84ZDY2OThlMC0yY2UzLTQxMTUtYjdlOC0xYmJjZGVkNjdmYmYuanBlZ5GVAs0EsM0DIcPD3gABoTAB);
+    height: 100vh;
+    width:100vw;
+    position: absolute;
+    left:0;
+    top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+}
+.nav {
+    position: fixed;
+    top:0;
+   font-size:32px;
+   width:100vw;
+   z-index:2;
+}
+.span {
+    font-size:120px;
+    position: absolute;
+    left:550px;
+   top:1000px;
+   color: orange;
+}
+.siema {
+    font-size:40px;
+}
+.accordion {
+    position: absolute;
+    top:1200px;
+    width:100vw;
+}
+.div2 {
+    position:absolute;
+    top:1500px;
+    background-image: url(https://i.iplsc.com/000MFLGRMS6HUVTI-C323-F4.webp);
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+
+}
+.siema3 {
+    position:absolute;
+    top:2500px;
+    left:470px;
+}
